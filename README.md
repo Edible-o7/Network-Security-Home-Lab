@@ -8,3 +8,5 @@ This repository showcases my network security home labs, which include a variety
 
 ### 1 Cybersecurity Tools
 -[Exploring Ubuntu Home Lab](/Cybersecurity_Tools/Exploring%20Ubuntu%20Home%20Lab.md)
+
+-[Exploring Firewalls Home Lab](/Cybersecurity_Tools/Exploring%20Firewalls%20Home%20Lab.md)
